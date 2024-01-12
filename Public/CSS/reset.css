@@ -1,0 +1,9 @@
+/* Para tudo seguir do mesmo ponto */
+
+*{
+    margin: 0;
+    padding: 0;
+    border: 0px;
+    text-decoration: none;
+    box-sizing: border-box;
+}
